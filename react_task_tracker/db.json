@@ -21,8 +21,14 @@
     {
       "text": "Visit friends",
       "day": "June 12, 2021",
-      "reminder": false,
+      "reminder": true,
       "id": 7
+    },
+    {
+      "text": "Go to church",
+      "day": "Sunday",
+      "reminder": false,
+      "id": 8
     }
   ]
-}
+} 
