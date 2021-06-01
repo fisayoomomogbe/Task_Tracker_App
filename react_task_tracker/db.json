@@ -1,0 +1,28 @@
+{
+  "tasks": [
+    {
+      "text": "test",
+      "day": "Monday",
+      "reminder": true,
+      "id": 4
+    },
+    {
+      "text": "Read",
+      "day": "Tuesday,13th May, 2021",
+      "reminder": true,
+      "id": 5
+    },
+    {
+      "text": " Watch Movie",
+      "day": " Sunday, 10th June,2021",
+      "reminder": true,
+      "id": 6
+    },
+    {
+      "text": "Visit friends",
+      "day": "June 12, 2021",
+      "reminder": false,
+      "id": 7
+    }
+  ]
+}
